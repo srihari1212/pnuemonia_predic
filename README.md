@@ -15,7 +15,7 @@ python app.py
 
 ##folder structure
 .
-├── static                            # all css and js files required will be present here 
+├── static                            (all css and js files required will be present here) 
     ├── css                      
         └── main.css
     └── js
