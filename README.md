@@ -5,21 +5,21 @@ Pneumonia predictor is a end to end Flask application that predicts whether a pe
 Thanks to Kaggle
 You can find dataset [HERE](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
-##installation
+## installation
 one can install required packages for this application using 
 ```bash
 pip install -r requirements
 ```
-##Separate environment
+## Separate environment
 Alwas create a separate `conda environment/any environment` so that you can avoid version errors between packages
 
-##usage
+## usage
 After installing the required packages use the following command to start the flask app
 ```bash
 python app.py
 ```
 
-##folder structure
+## folder structure
 ```bash
 '
 .
