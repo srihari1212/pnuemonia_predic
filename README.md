@@ -20,15 +20,15 @@ python app.py
         └── main.css
     └── js
         └── main.js
-├── templates                         # all html files required willo be present here
+├── templates                         all html files required willo be present here
     └── index.html
-├── uploads                           # when a image is tested using front end that gets stored here
-├── app.py                            # our application's wsgi
-├── model_resnet50.h5                 # our model
-├── PNEUMONIA_classification.ipynb    # File that developed .h5
-├── Procfile                          # required for deployment in heroku
-├── requirements.txt                  # packages required will be present here
-├── training.txt                      # training process
+├── uploads                           when a image is tested using front end that gets stored here
+├── app.py                            our application's wsgi
+├── model_resnet50.h5                 our model
+├── PNEUMONIA_classification.ipynb    File that developed .h5
+├── Procfile                          required for deployment in heroku
+├── requirements.txt                  packages required will be present here
+├── training.txt                      training process
 ├── accuracy.png                      
 └── loss.png
 
