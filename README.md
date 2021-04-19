@@ -21,9 +21,9 @@ python app.py
 ├── app.py                              
 ├── model_resnet50.h5                   
 ├── PNEUMONIA_classification.ipynb
-└── Procfile
-└── requirements.txt
-└── training.txt
-└── accuracy.png
+├── Procfile
+├── requirements.txt
+├── training.txt
+├── accuracy.png
 └── loss.png
 # Automated tests (alternatively `spec` or `tests`)
