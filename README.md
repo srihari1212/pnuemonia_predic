@@ -14,6 +14,7 @@ python app.py
 ```
 
 ##folder structure
+```bash
 .
 ├── static                            (all css and js files required will be present here) 
     ├── css                      
@@ -31,14 +32,5 @@ python app.py
 ├── training.txt                      training process
 ├── accuracy.png                      
 └── loss.png
+```
 
-
-.
-├── ...
-├── docs                    # Documentation files (alternatively `doc`)
-│   ├── TOC.md              # Table of contents
-│   ├── faq.md              # Frequently asked questions
-│   ├── misc.md             # Miscellaneous information
-│   ├── usage.md            # Getting started guide
-│   └── ...                 # etc.
-└── ...
