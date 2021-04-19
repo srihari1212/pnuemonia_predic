@@ -1,7 +1,7 @@
 # Pneumonia predictor
 Pneumonia predictor is a end to end Flask application that predicts whether a person has pneumonia or not
 
-# Dataset
+## Dataset
 Thanks to Kaggle
 You can find dataset [HERE](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
