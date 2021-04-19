@@ -18,11 +18,12 @@ python app.py
 ├── static  
 ├── templates                           
 ├── uploads                             
-├── app.py                              # Automated tests (alternatively `spec` or `tests`)
-├── model_resnet50.h5                   # Tools and utilities
+├── app.py                              
+├── model_resnet50.h5                   
 ├── PNEUMONIA_classification.ipynb
 └── Procfile
 └── requirements.txt
 └── training.txt
 └── accuracy.png
 └── loss.png
+# Automated tests (alternatively `spec` or `tests`)
