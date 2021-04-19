@@ -49,3 +49,32 @@ python app.py
 ## About Resnet50
 Resnet50 is a `pretrained model` by Imagenet which is `50 layers deep` and already got trained with 1000 categories. Here I used `transfer learning` process to retrain resnet50 for pneumonia data obtained from kaggle. 
 
+## Important Tools used
+* python 3.7
+* anaconda-jupyternotebook
+* conda environment
+* flask
+* html
+* css
+* js
+
+## Training time
+I trained the model through `50 epoch (cycles)`
+For 50 cycles it took aroung `6 hours`
+
+## Accuracy range
+The overall accuracy range was between `88 to 91`
+
+## Input 
+After running the application just upload a `x-ray image`
+
+## Output
+It will say whether
+    `The person is normal`
+                or
+    `The person has pnuemonia`
+    
+## Deployment
+Now this is running `locally in my PC`
+I tried with `Heroku` platform
+But I couldnt deploy , since I used `Git LFS` to upload my 98.3mb .h5 model file, heroku couldnt pull LFS files to its server since I only have a `FREE TIER` account  
