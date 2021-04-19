@@ -46,5 +46,6 @@ python app.py
 └── loss.png
 ```
 
-
+## About Resnet50
+Resnet50 is a `pretrained model` by Imagenet which is `50 layers deep` and already got trained with 1000 categories. Here I used `transfer learning` process to retrain resnet50 for pneumonia data obtained from kaggle. 
 
