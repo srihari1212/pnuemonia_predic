@@ -33,5 +33,8 @@ python app.py
 ├── training.txt                      training process
 ├── accuracy.png                      
 └── loss.png
+
+#Separate environment
+Alwas create a separate conda `environment/any environment` so that you can avoid version errors between packages
 ```
 
