@@ -1,5 +1,5 @@
 # Pneumonia predictor
-Pneumonia predictor is a end to end Flask application that predicts whether a person has pneumonia or not
+Pneumonia predictor is a end to end Flask application that predicts `whether a person has pneumonia or not`
 
 Created By
 ----------
