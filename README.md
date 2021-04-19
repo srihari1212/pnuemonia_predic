@@ -15,6 +15,7 @@ python app.py
 
 ##folder structure
 ```bash
+'
 .
 ├── static                            (all css and js files required will be present here) 
     ├── css                      
