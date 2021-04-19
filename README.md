@@ -1,1 +1,28 @@
-"# pneumonia_predic" 
+"# Pneumonia predictor"
+Pneumonia predictor is a end to end Flask application that predicts whether a person has pneumonia or not
+
+##installation
+one can install required packages for this application using 
+```bash
+pip install -r requirements
+```
+
+##usage
+After installing the required packages use the following command to start the flask app
+```bash
+python app.py
+```
+
+##folder structure
+.
+├── static  
+├── templates                           
+├── uploads                             
+├── app.py                              # Automated tests (alternatively `spec` or `tests`)
+├── model_resnet50.h5                   # Tools and utilities
+├── PNEUMONIA_classification.ipynb
+└── Procfile
+└── requirements.txt
+└── training.txt
+└── accuracy.png
+└── loss.png
